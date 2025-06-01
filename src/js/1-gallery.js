@@ -90,6 +90,6 @@ function createMarkup(arr) {
 const lightbox = new SimpleLightbox('.gallery a', {
   captions: true,
   captionsData: 'alt',
-  captionsDelay: 250,
+  captionDelay: 250,
   captionPosition: 'bottom',
 });
