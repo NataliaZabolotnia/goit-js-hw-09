@@ -1,0 +1,45 @@
+.feedback-form {
+  display: flex;
+  flex-direction: column;
+}
+label {
+  width: 72px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+  margin-bottom: 8px;
+}
+input {
+  width: 359px;
+  height: 39px;
+  border-radius: 4px;
+  stroke: #808080;
+}
+textarea {
+  width: 359px;
+  height: 79px;
+  border-radius: 4px;
+  resize: none;
+  stroke: #808080;
+}
+button {
+  border-radius: 8px;
+  padding: 8px 16px;
+  width: 95px;
+  height: 40px;
+  background: #4e75ff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #fff;
+  border: none;
+}
+button:hover,
+button:focus {
+  background: #6c8cff;
+}
