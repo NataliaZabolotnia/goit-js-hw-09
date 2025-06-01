@@ -10,5 +10,5 @@ import"./assets/modulepreload-polyfill-B5Qt9EMX.js";/* empty css                
         height="200"
         />
       </a>
-    </li>`).join("")}new p(".gallery a",{captions:!0,captionsData:"alt",captionsDelay:250,captionPosition:"bottom"});
+    </li>`).join("")}new p(".gallery a",{captions:!0,captionsData:"alt",captionDelay:250,captionPosition:"bottom"});
 //# sourceMappingURL=1-gallery.js.map
